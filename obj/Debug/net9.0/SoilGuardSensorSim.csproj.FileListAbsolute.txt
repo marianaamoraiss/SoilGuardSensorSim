@@ -1,0 +1,14 @@
+/Users/macintosh/RiderProjects/SoilGuardSensorSim-LIMPO/bin/Debug/net9.0/SoilGuardSensorSim
+/Users/macintosh/RiderProjects/SoilGuardSensorSim-LIMPO/bin/Debug/net9.0/SoilGuardSensorSim.deps.json
+/Users/macintosh/RiderProjects/SoilGuardSensorSim-LIMPO/bin/Debug/net9.0/SoilGuardSensorSim.runtimeconfig.json
+/Users/macintosh/RiderProjects/SoilGuardSensorSim-LIMPO/bin/Debug/net9.0/SoilGuardSensorSim.dll
+/Users/macintosh/RiderProjects/SoilGuardSensorSim-LIMPO/bin/Debug/net9.0/SoilGuardSensorSim.pdb
+/Users/macintosh/RiderProjects/SoilGuardSensorSim-LIMPO/obj/Debug/net9.0/SoilGuardSensorSim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/RiderProjects/SoilGuardSensorSim-LIMPO/obj/Debug/net9.0/SoilGuardSensorSim.AssemblyInfoInputs.cache
+/Users/macintosh/RiderProjects/SoilGuardSensorSim-LIMPO/obj/Debug/net9.0/SoilGuardSensorSim.AssemblyInfo.cs
+/Users/macintosh/RiderProjects/SoilGuardSensorSim-LIMPO/obj/Debug/net9.0/SoilGuardSensorSim.csproj.CoreCompileInputs.cache
+/Users/macintosh/RiderProjects/SoilGuardSensorSim-LIMPO/obj/Debug/net9.0/SoilGuardSensorSim.dll
+/Users/macintosh/RiderProjects/SoilGuardSensorSim-LIMPO/obj/Debug/net9.0/refint/SoilGuardSensorSim.dll
+/Users/macintosh/RiderProjects/SoilGuardSensorSim-LIMPO/obj/Debug/net9.0/SoilGuardSensorSim.pdb
+/Users/macintosh/RiderProjects/SoilGuardSensorSim-LIMPO/obj/Debug/net9.0/SoilGuardSensorSim.genruntimeconfig.cache
+/Users/macintosh/RiderProjects/SoilGuardSensorSim-LIMPO/obj/Debug/net9.0/ref/SoilGuardSensorSim.dll
